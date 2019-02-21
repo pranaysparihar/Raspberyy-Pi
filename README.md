@@ -1,2 +1,2 @@
-# Raspberyy-Pi
+# Raspberry-Pi
 Experimenting with iOT
